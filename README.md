@@ -1,1 +1,1 @@
-# odin-recipes
+in this repo, i will be showing what i've learnt so far with html through the creation of a basic website, and then later, I will come back and add some css to this website!
